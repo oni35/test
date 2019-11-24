@@ -8,15 +8,18 @@ namespace CodeFirstNewDatabaseSample
     {
         public static void Main(string[] args)
         {
-            using (var db = new EmployeeContext()) 
-            {
-                foreach (var item in db.employees)
-                {
-                    Console.WriteLine(item);
-                    
-                }
-                Console.ReadLine();
-            }
+            //using (var db = new EmployeeContext()) 
+            //{
+            //    foreach (var item in db.employees)
+            //    {
+            //        Console.WriteLine(item);
+
+            //    }
+            //    Console.ReadLine();
+            //}
+
+            Menu menu = new Menu();
+            menu.MainMenu();
         }
     }
 }

@@ -19,6 +19,7 @@ namespace CodeFirstNewDatabaseSample
             //    Console.ReadLine();
             //}
 
+
             // use menu
             Menu.MainMenu();
 

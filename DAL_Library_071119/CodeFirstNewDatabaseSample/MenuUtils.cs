@@ -16,7 +16,7 @@ namespace CodeFirstNewDatabaseSample
 
             do
             {
-                Console.WriteLine("question");
+                Console.WriteLine(question);
                 userChoice = Console.ReadLine();
 
             } while (!int.TryParse(userChoice, out outResult) || outResult < min || outResult > max);

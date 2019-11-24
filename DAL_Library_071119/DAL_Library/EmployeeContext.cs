@@ -36,36 +36,43 @@ namespace DAL_Library
         /// </summary>
         public EmployeeContext() : base()
         {
-            if (this.Database.CreateIfNotExists())
-            //if (this.Database.Exists())
-            //    this.Database.Delete();
-            //else (this.Database.Create());
+            try
             {
-                for (int i = 0; i < 10; i++)
+                if (this.Database.CreateIfNotExists())
                 {
-                    Service service = new Service();
-                    service.Name = string.Format("serviceName {0}", i);
-                    service.Description = string.Format("serviceDescription {0}", i);
-                    
-                    this.Services.Add(service);
-                    this.SaveChanges();
-                }
+                    for (int i = 0; i < 10; i++)
+                    {
+                        Service service = new Service();
+                        service.Name = string.Format("serviceName {0}", i);
+                        service.Description = string.Format("serviceDescription {0}", i);
 
-                Random random = new Random();
-                for (int i = 0; i < 30; i++)
-                {
-                    Employee employee = new Employee();
-                    employee.FirstName = string.Format("FirstName {0}", i);
-                    employee.LastName = string.Format("LastName {0}", i);
-                    employee.Function = string.Format("function {0}",this.Services.Find(random.Next(1, Services.Count())));
-                    employee.Salary = 500F * i;
-                    employee.DateOfBirth = DateTime.Now;
-                    employee.Department = this.Services.Find(random.Next(1, Services.Count()));
+                        this.Services.Add(service);
+                        this.SaveChanges();
+                    }
 
-                    this.Employees.Add(employee);
-                    this.SaveChanges();
+                    Random random = new Random();
+                    for (int i = 0; i < 30; i++)
+                    {
+                        Employee employee = new Employee();
+                        employee.FirstName = string.Format("FirstName {0}", i);
+                        employee.LastName = string.Format("LastName {0}", i);
+                        employee.Function = string.Format("function {0}", this.Services.Find(random.Next(1, Services.Count())));
+                        employee.Salary = 500F * i;
+                        employee.DateOfBirth = DateTime.Now;
+                        employee.Department = this.Services.Find(random.Next(1, Services.Count()));
+
+                        this.Employees.Add(employee);
+                        this.SaveChanges();
+                    }
+
                 }
-                
+            }
+
+            catch
+            {
+                if (this.Database.Exists())
+                    this.Database.Delete();
+               
             }
         }
         #endregion

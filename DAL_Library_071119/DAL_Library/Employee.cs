@@ -18,7 +18,6 @@ namespace DAL_Library
         private string city;
         private float salary;
         private string function;
-        private int serviceId;
         private Service department;
         #endregion
 

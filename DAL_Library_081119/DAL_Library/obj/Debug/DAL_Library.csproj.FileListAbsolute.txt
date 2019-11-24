@@ -38,3 +38,16 @@ C:\Users\oNI\Desktop\Formation_Dev_.NET\Modules\C#\C#_avance\Ateliers\C#_avance_
 C:\Users\oNI\Desktop\Formation_Dev_.NET\Modules\C#\C#_avance\Ateliers\C#_avance_module3_ateliers\Non_corriges\DAL_Library_081119\DAL_Library\obj\Debug\DAL_Library.csproj.CopyComplete
 C:\Users\oNI\Desktop\Formation_Dev_.NET\Modules\C#\C#_avance\Ateliers\C#_avance_module3_ateliers\Non_corriges\DAL_Library_081119\DAL_Library\obj\Debug\DAL_Library.dll
 C:\Users\oNI\Desktop\Formation_Dev_.NET\Modules\C#\C#_avance\Ateliers\C#_avance_module3_ateliers\Non_corriges\DAL_Library_081119\DAL_Library\obj\Debug\DAL_Library.pdb
+C:\Users\oNI\Desktop\Formation_Dev_.NET\Modules\C#_Antoine_Cronier\C#_avance\Ateliers\Non_corriges\DAL_Library_081119\DAL_Library\bin\Debug\DAL_Library.dll.config
+C:\Users\oNI\Desktop\Formation_Dev_.NET\Modules\C#_Antoine_Cronier\C#_avance\Ateliers\Non_corriges\DAL_Library_081119\DAL_Library\bin\Debug\DAL_Library.dll
+C:\Users\oNI\Desktop\Formation_Dev_.NET\Modules\C#_Antoine_Cronier\C#_avance\Ateliers\Non_corriges\DAL_Library_081119\DAL_Library\bin\Debug\DAL_Library.pdb
+C:\Users\oNI\Desktop\Formation_Dev_.NET\Modules\C#_Antoine_Cronier\C#_avance\Ateliers\Non_corriges\DAL_Library_081119\DAL_Library\bin\Debug\EntityFramework.dll
+C:\Users\oNI\Desktop\Formation_Dev_.NET\Modules\C#_Antoine_Cronier\C#_avance\Ateliers\Non_corriges\DAL_Library_081119\DAL_Library\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\oNI\Desktop\Formation_Dev_.NET\Modules\C#_Antoine_Cronier\C#_avance\Ateliers\Non_corriges\DAL_Library_081119\DAL_Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\oNI\Desktop\Formation_Dev_.NET\Modules\C#_Antoine_Cronier\C#_avance\Ateliers\Non_corriges\DAL_Library_081119\DAL_Library\bin\Debug\EntityFramework.xml
+C:\Users\oNI\Desktop\Formation_Dev_.NET\Modules\C#_Antoine_Cronier\C#_avance\Ateliers\Non_corriges\DAL_Library_081119\DAL_Library\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\oNI\Desktop\Formation_Dev_.NET\Modules\C#_Antoine_Cronier\C#_avance\Ateliers\Non_corriges\DAL_Library_081119\DAL_Library\bin\Debug\Newtonsoft.Json.xml
+C:\Users\oNI\Desktop\Formation_Dev_.NET\Modules\C#_Antoine_Cronier\C#_avance\Ateliers\Non_corriges\DAL_Library_081119\DAL_Library\obj\Debug\DAL_Library.csprojAssemblyReference.cache
+C:\Users\oNI\Desktop\Formation_Dev_.NET\Modules\C#_Antoine_Cronier\C#_avance\Ateliers\Non_corriges\DAL_Library_081119\DAL_Library\obj\Debug\DAL_Library.csproj.CopyComplete
+C:\Users\oNI\Desktop\Formation_Dev_.NET\Modules\C#_Antoine_Cronier\C#_avance\Ateliers\Non_corriges\DAL_Library_081119\DAL_Library\obj\Debug\DAL_Library.dll
+C:\Users\oNI\Desktop\Formation_Dev_.NET\Modules\C#_Antoine_Cronier\C#_avance\Ateliers\Non_corriges\DAL_Library_081119\DAL_Library\obj\Debug\DAL_Library.pdb
