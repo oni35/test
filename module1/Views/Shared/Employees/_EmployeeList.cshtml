@@ -1,0 +1,29 @@
+﻿@model IEnumerable<module1.Models.Employe>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nom)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Prenom)
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nom)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Prenom)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", "Employes", new { id = item.EmployeId }, new { }) |
+                @Html.ActionLink("Details", "Details", "Employes", new { id = item.EmployeId }, new { }) |
+                @Html.ActionLink("Delete", "Delete", "Employes", new { id = item.EmployeId }, new { })
+            </td>
+        </tr>
+    }
+</table>
