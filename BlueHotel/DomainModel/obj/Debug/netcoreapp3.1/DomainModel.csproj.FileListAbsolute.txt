@@ -1,0 +1,7 @@
+C:\Users\IB\Desktop\Azur\BlueHotel\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+C:\Users\IB\Desktop\Azur\BlueHotel\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+C:\Users\IB\Desktop\Azur\BlueHotel\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
+C:\Users\IB\Desktop\Azur\BlueHotel\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\IB\Desktop\Azur\BlueHotel\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Users\IB\Desktop\Azur\BlueHotel\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\IB\Desktop\Azur\BlueHotel\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DomainModel", "DomainModel\DomainModel.csproj", "{3938AFC0-BE60-4544-BAB2-02EEC306EA5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dal", "Dal\Dal.csproj", "{CDC6FA22-4A24-4FBC-BFBF-57952C267E74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{189614F6-2A50-484F-B7D5-0092C7C14D11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3938AFC0-BE60-4544-BAB2-02EEC306EA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3938AFC0-BE60-4544-BAB2-02EEC306EA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3938AFC0-BE60-4544-BAB2-02EEC306EA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3938AFC0-BE60-4544-BAB2-02EEC306EA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDC6FA22-4A24-4FBC-BFBF-57952C267E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDC6FA22-4A24-4FBC-BFBF-57952C267E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDC6FA22-4A24-4FBC-BFBF-57952C267E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDC6FA22-4A24-4FBC-BFBF-57952C267E74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{189614F6-2A50-484F-B7D5-0092C7C14D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{189614F6-2A50-484F-B7D5-0092C7C14D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{189614F6-2A50-484F-B7D5-0092C7C14D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{189614F6-2A50-484F-B7D5-0092C7C14D11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5449AD8B-677A-4DE0-8AF5-B11990CCB1E5}
+	EndGlobalSection
+EndGlobal

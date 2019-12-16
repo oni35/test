@@ -1,0 +1,11 @@
+C:\Users\IB\Desktop\Azur\BlueHotel\Dal\bin\Debug\netcoreapp3.1\Dal.deps.json
+C:\Users\IB\Desktop\Azur\BlueHotel\Dal\bin\Debug\netcoreapp3.1\Dal.dll
+C:\Users\IB\Desktop\Azur\BlueHotel\Dal\obj\Debug\netcoreapp3.1\Dal.csprojAssemblyReference.cache
+C:\Users\IB\Desktop\Azur\BlueHotel\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfoInputs.cache
+C:\Users\IB\Desktop\Azur\BlueHotel\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfo.cs
+C:\Users\IB\Desktop\Azur\BlueHotel\Dal\bin\Debug\netcoreapp3.1\Dal.pdb
+C:\Users\IB\Desktop\Azur\BlueHotel\Dal\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\IB\Desktop\Azur\BlueHotel\Dal\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Users\IB\Desktop\Azur\BlueHotel\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CopyComplete
+C:\Users\IB\Desktop\Azur\BlueHotel\Dal\obj\Debug\netcoreapp3.1\Dal.dll
+C:\Users\IB\Desktop\Azur\BlueHotel\Dal\obj\Debug\netcoreapp3.1\Dal.pdb
