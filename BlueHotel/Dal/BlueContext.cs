@@ -70,25 +70,32 @@ namespace Dal
 			modelBuilder.Entity<Hotel>()
 				.HasMany(h => h.Rooms) //aller : 1 hotel vers pls rooms
 				.WithOne(r => r.Hotel);//retour (optinnel) : des rooms vers 1 hotel
+			
 			modelBuilder.Entity<Hotel>()
 				.HasOne(h => h.Address);
+
 			modelBuilder.Entity<Customer>()
-				.HasMany(c => c.Bookings)
-				.WithOne(b => b.Customer);
-			modelBuilder.Entity<Customer>()
-				.HasOne(c => c.Address);
-			modelBuilder.Entity<Booking>()
-				.HasMany(b => b.BookingRooms)
-				.WithOne(br => br.Booking);
-			modelBuilder.Entity<Room>()
+                .HasOne(c => c.Address);
+
+            modelBuilder.Entity<Customer>()
+                .HasMany(c => c.Bookings)
+                .WithOne(b => b.Customer);
+
+            //many to many
+            modelBuilder.Entity<Booking>()
+                .HasMany(b => b.BookingRooms)
+                .WithOne(br => br.Booking);
+
+            modelBuilder.Entity<Room>()
 				.HasMany(r => r.BookingRooms)
 				.WithOne(b => b.Room);
 
-			modelBuilder.Entity<BookingRoom>()
-				.HasKey();
+            //double key
+            modelBuilder.Entity<BookingRoom>()
+                .HasKey(br => new { br.BookingId, br.RoomId });
 
-			base.OnModelCreating(modelBuilder);
-		}
+            base.OnModelCreating(modelBuilder);
+        }
         #endregion
     }
 }

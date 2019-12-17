@@ -5,3 +5,4 @@ C:\Users\IB\Desktop\Azur\BlueHotel\DomainModel\bin\Debug\netcoreapp3.1\DomainMod
 C:\Users\IB\Desktop\Azur\BlueHotel\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
 C:\Users\IB\Desktop\Azur\BlueHotel\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
 C:\Users\IB\Desktop\Azur\BlueHotel\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Users\IB\Desktop\Azur\BlueHotel\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csprojAssemblyReference.cache

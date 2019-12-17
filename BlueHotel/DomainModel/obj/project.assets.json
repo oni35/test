@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IB\\Desktop\\Azur\\BlueHotel\\DomainModel\\DomainModel.csproj",
+      "projectUniqueName": "C:\\Users\\IB\\Desktop\\Azur_Romain_Ruske\\Azur\\BlueHotel\\DomainModel\\DomainModel.csproj",
       "projectName": "DomainModel",
-      "projectPath": "C:\\Users\\IB\\Desktop\\Azur\\BlueHotel\\DomainModel\\DomainModel.csproj",
+      "projectPath": "C:\\Users\\IB\\Desktop\\Azur_Romain_Ruske\\Azur\\BlueHotel\\DomainModel\\DomainModel.csproj",
       "packagesPath": "C:\\Users\\IB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IB\\Desktop\\Azur\\BlueHotel\\DomainModel\\obj\\",
+      "outputPath": "C:\\Users\\IB\\Desktop\\Azur_Romain_Ruske\\Azur\\BlueHotel\\DomainModel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IB\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -4947,11 +4947,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IB\\Desktop\\Azur\\BlueHotel\\Dal\\Dal.csproj",
+      "projectUniqueName": "C:\\Users\\IB\\Desktop\\Azur_Romain_Ruske\\Azur\\BlueHotel\\Dal\\Dal.csproj",
       "projectName": "Dal",
-      "projectPath": "C:\\Users\\IB\\Desktop\\Azur\\BlueHotel\\Dal\\Dal.csproj",
+      "projectPath": "C:\\Users\\IB\\Desktop\\Azur_Romain_Ruske\\Azur\\BlueHotel\\Dal\\Dal.csproj",
       "packagesPath": "C:\\Users\\IB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IB\\Desktop\\Azur\\BlueHotel\\Dal\\obj\\",
+      "outputPath": "C:\\Users\\IB\\Desktop\\Azur_Romain_Ruske\\Azur\\BlueHotel\\Dal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\IB\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4967,8 +4967,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\IB\\Desktop\\Azur\\BlueHotel\\DomainModel\\DomainModel.csproj": {
-              "projectPath": "C:\\Users\\IB\\Desktop\\Azur\\BlueHotel\\DomainModel\\DomainModel.csproj"
+            "C:\\Users\\IB\\Desktop\\Azur_Romain_Ruske\\Azur\\BlueHotel\\DomainModel\\DomainModel.csproj": {
+              "projectPath": "C:\\Users\\IB\\Desktop\\Azur_Romain_Ruske\\Azur\\BlueHotel\\DomainModel\\DomainModel.csproj"
             }
           }
         }
